@@ -1,5 +1,4 @@
 from flask import Flask, request, url_for, session, redirect
-from pygame import CONTROLLER_BUTTON_DPAD_RIGHT
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 import time
